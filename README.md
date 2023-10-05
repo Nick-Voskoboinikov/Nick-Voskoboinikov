@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning PHP & React (though doing it simmultsneously is generally a bad idea)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nick-Voskoboinikov&theme=dark)](https://git.io/streak-stats)
+
 [![My Stack](https://skillicons.dev/icons?i=html,css,js,php,regex,vscode,vim,git,github,linux,bash,powershell&perline=4)](https://skillicons.dev "My Stack")
 
 <!--
@@ -17,4 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=1)](https://skillicons.dev "My Stack")
 -->
