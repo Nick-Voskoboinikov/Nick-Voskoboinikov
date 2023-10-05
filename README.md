@@ -10,7 +10,8 @@
 
 ![](https://komarev.com/ghpvc/?username=Nick-Voskoboinikov&style=for-the-badge&color=2f81f7) ![](https://img.shields.io/github/followers/Nick-Voskoboinikov?logo=github&style=for-the-badge)
 
-![](https://github-readme-stats.vercel.app/api?username=ivan-developer-01)
+![](https://github-readme-stats.vercel.app/api?username=Nick-Voskoboinikov)
+
 <!--
 **Nick-Voskoboinikov/Nick-Voskoboinikov** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
