@@ -1,10 +1,10 @@
-### ✨Hello everyone out there! ✨
+## ✨Hello everyone out there! ✨
 
 - 🔭 I’m currently working on MVC sample
 - 🌱 I’m currently learning PHP & React (though doing it simmultsneously is generally a bad idea)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nick-Voskoboinikov&theme=dark)](https://git.io/streak-stats)
-
+### My stack
 [![My Stack](https://skillicons.dev/icons?i=html,css,js,php,regex,vscode,vim,git,github,md,mysql,sqlite,postgres,linux,bash,powershell&perline=8)](https://skillicons.dev "My Stack")
 
 <!--
