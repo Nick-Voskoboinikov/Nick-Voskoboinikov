@@ -4,7 +4,9 @@
 - 🌱 I’m currently learning PHP & React (though doing it simmultsneously is generally a bad idea)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Nick-Voskoboinikov&theme=dark)](https://git.io/streak-stats)
-
+<p align="center">
+[![My Stack](https://skillicons.dev/icons?i=html,css,js,php,regex,vscode,vim,git,github,linux,bash,powershell,&perline=4)](https://skillicons.dev "My Stack")
+</p>
 <!--
 **Nick-Voskoboinikov/Nick-Voskoboinikov** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
