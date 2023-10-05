@@ -2,6 +2,9 @@
 
 - 🔭 I’m currently working on MVC sample
 - 🌱 I’m currently learning PHP & React (though doing it simmultsneously is generally a bad idea)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nick-Voskoboinikov&theme=dark)](https://git.io/streak-stats)
+
 <!--
 **Nick-Voskoboinikov/Nick-Voskoboinikov** is a  _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
